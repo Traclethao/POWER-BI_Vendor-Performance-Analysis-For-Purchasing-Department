@@ -43,7 +43,11 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 ## **III. Visualization**
 ### **1. Vendor overview**
 
+![Vendor detail](https://github.com/user-attachments/assets/3235fafb-230a-48d1-a767-41732ea2b082)
 
+### **2. Vendor detail**
+
+![Vendor overview](https://github.com/user-attachments/assets/1a01a8a7-14c1-4279-92a3-bbeb4b215923)
 
 ## **IV. Insights**
 
