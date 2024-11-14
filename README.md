@@ -16,6 +16,10 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 - Create an Operation Dashboard for managers that displays vendor order completion rate, on-time delivery rate, vendor leadtime, and total order amount.
 
+### **4. Data Model**
+
+
+
 ## **II. Design Thinking Method**
 
 **Here are the five steps of design thinking:**
