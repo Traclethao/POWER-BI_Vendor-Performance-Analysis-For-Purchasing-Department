@@ -22,23 +22,23 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 ### **Step 1 - Empathize**
 
-
+![Stage 1](https://github.com/user-attachments/assets/7b87c808-96a9-4a68-8101-ece826a35439)
 
 ### **Step 2 - Define**
 
-
+![Stage 2](https://github.com/user-attachments/assets/d4f17f24-d33b-4cb6-ac8c-95b3fcfa4127)
 
 ### **Step 3 - Ideate**
 
-
+![Stage 3](https://github.com/user-attachments/assets/f1b078e2-57c3-42cb-9955-06aabb522564)
 
 ### **Step 4 - Prototype**
 
-
+![Stage 4](https://github.com/user-attachments/assets/56f0ee0b-5714-4965-b2de-7167ac4ab825)
 
 ### **Step 5 - Review**
 
-
+![Stage 5](https://github.com/user-attachments/assets/2bb50d6d-b39d-42b7-be45-2c1c37045f90)
 
 ## **III. Visualization**
 ### **1. Vendor overview**
