@@ -10,7 +10,7 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 ### **2. Data Dictionary**
 
-
+![Data Dictionary](https://github.com/user-attachments/assets/4a8a0ae1-5740-4159-bf2c-fa662abe6950)
 
 ### **3. Business Questions**
 
