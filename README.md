@@ -1,5 +1,5 @@
 # Adventure Works Analysis
-Using Power BI to visualize dashboards about the business's vendor situation. 
+Using Power BI to visualize dashboards about the business's purchasing situation. 
 ## **I. Introduction**
 
 ### **1. Introduction to Dataset**
