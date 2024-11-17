@@ -4,7 +4,7 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 ### **1. Introduction to Dataset**
 
-- AdventureWorks database of a fictitious bicycle manufacturer - Adventure Works Cycles contain Manufacturing, Purchasing. 
+- AdventureWorks database of a fictitious bicycle manufacturer - Adventure Works Cycles contains Manufacturing, Purchasing. 
 - The purchasing department will be responsible for purchasing goods, raw materials, and semi-finished products for production. Management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices.
 - The dataset includes a **dim table** containing information about product and vendor, including fields of **product** information (ID, name, category, and subcategory) and information related to the **vendor** (ID, name, price, leadtime).
 
