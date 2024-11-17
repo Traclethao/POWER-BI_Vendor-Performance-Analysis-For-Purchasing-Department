@@ -55,7 +55,16 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 ## **IV. Insights**
 
+- August accounted for 24.92% of Total_StockedQty.
+- Total TotalCost_Product was higher for Salable ($5,246,055) than Not Salable (3,301,786.69).
+- Average TotalCost_Product was higher for Salable (582,894.97) than Not Salable (330,178.67).
+- At $1,610,965, Superior Bicycles had the highest Total_Purchase and was 90.33% higher than Jackson Authority, which had the lowest Total_Purchase at $846,400.
+- Superior Bicycles accounted for 28.86% of Total_Purchase.
+- Across all 5 Vendors, Total_Purchase ranged from $846,400 to $1,610,965.
 
 ## **V. Recommendations**
 
+- Improve %Ontime: discuss with suppliers about delivery time to agree on the time, because most suppliers deliver late. See the Average Days Late by Subcategory chart to recalculate the leadtim of each product.
+
+- The company's busiest time is from August to December. August is the busiest. ⇒ the purchasing department should plan to order a lot during this time to meet the demand.
 
