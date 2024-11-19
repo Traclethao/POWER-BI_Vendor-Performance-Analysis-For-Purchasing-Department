@@ -14,6 +14,8 @@ Using Power BI to visualize dashboards about the business's purchasing situation
 
 ### **3. Data Model**
 
+From the company's data dictionary I did data modeling
+
 ![Data model](https://github.com/user-attachments/assets/28ff3b12-6f40-4697-8f0a-afe2bf8582f1) 
 
 ## **II. Design Thinking Method**
