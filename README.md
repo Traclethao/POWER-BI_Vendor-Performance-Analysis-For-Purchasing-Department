@@ -51,7 +51,13 @@ From the company's data dictionary I did data modeling.
 
 ### **2. Spend Vendor**
 
-![Spend Vendor](https://github.com/user-attachments/assets/0154923c-8ab6-4dbc-84cd-49a09b232f97)
+
+
+1. Line chart: Total purchase by month. => At $5,696,578, Aug had the highest Total_Purchase and was 5,144.17% higher than Jul, which had the lowest Total_Purchase at $108,627. Aug accounted for 25.69% of Total_Purchase.
+
+2. 100% Stacked bar chart: Total purchase amount and cost type. 
+
+3. Treemap: Compare total purchase amount from vendors. => 
 
 
 ## **IV. Recommendations**
