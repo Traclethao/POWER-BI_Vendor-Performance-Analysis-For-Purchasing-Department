@@ -28,11 +28,11 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 2 - Define**
 
-![Stage 2](https://github.com/user-attachments/assets/102d1c38-61d1-4a7e-8811-415a03df261e)
+![Stage 2](https://github.com/user-attachments/assets/a7b62135-a9ed-4e9a-9bef-04231d98e1d2)
 
 ### **Step 3 - Ideate**
 
-![Stage 3](https://github.com/user-attachments/assets/9f47e878-26be-4d0a-82c2-53765163fa65)
+![Stage 3](https://github.com/user-attachments/assets/6ffd4240-51d2-4081-8528-5b34d3373f7f)
 
 ### **Step 4 - Prototype**
 
