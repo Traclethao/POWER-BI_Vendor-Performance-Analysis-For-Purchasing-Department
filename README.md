@@ -71,7 +71,7 @@ The Spend Vendor Dashboard provides insights into spending patterns and identifi
    => See what percentage of each vendor's cost is 
 
 3. Treemap: Compare total purchase amount from vendors.
-   => See the total amount of money the company spends on suppliers. The top 5 suppliers by total purchases are Superior Bicycles, Professional Athletic Consultant, Chicago City Saddles, Vision Cycles, Inc., Jackson Authority.
+   => From this treemap, we can see the top eleven vendors are the eleven blocks on the left of the treemap. We can also see they account for close to 50% of Total purchase amount.  
 
 
 ## **IV. Recommendations**
