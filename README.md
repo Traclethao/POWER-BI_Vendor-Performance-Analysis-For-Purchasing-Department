@@ -1,4 +1,4 @@
-# Vendor Analysis For Purchasing Department
+# Vendor Performance Analysis For Purchasing Department
 Using Power BI to visualize dashboards about the business's purchasing situation. 
 ## **I. Introduction**
 
