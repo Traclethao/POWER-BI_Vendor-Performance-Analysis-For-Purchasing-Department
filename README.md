@@ -47,22 +47,36 @@ From the company's data dictionary I did data modeling.
 
 ![Vendor Performance](https://github.com/user-attachments/assets/8101e0f4-9d45-411e-a51a-b56936d993f5)
 
+Overall, the Vendor Performance Dashboard plays a crucial role in ensuring the efficiency of the supply chain.
 
+1. Evaluate Vendors by order fulfillment rate.
+=> At 99%, Dec had the highest %Order_Fulfillment and was 19.12% higher than Jun, which had the lowest %Order_Fulfillment at 83%. 
+
+2. Evaluate Vendors by on-time rate and Average number of days late by month.
+=> Most vendors are late. The number of late days is too large, in July it was more than 400 days.
+
+3. Reject rate of each vendor. 
+=> Reject rate is not much, acceptable.
 
 ### **2. Spend Vendor**
 
+![Spend Vendor](https://github.com/user-attachments/assets/c5e74717-2332-45ca-8d1d-0afec4691a4c)
 
+The Spend Vendor Dashboard provides insights into spending patterns and identifies areas for cost optimization. By analyzing spending by vendors, managers can identify opportunities to consolidate purchasing, and reduce unnecessary expenses. This helps them to maximize their budget and improve their overall financial performance. 
 
-1. Line chart: Total purchase by month. => At $5,696,578, Aug had the highest Total_Purchase and was 5,144.17% higher than Jul, which had the lowest Total_Purchase at $108,627. Aug accounted for 25.69% of Total_Purchase.
+1. Line chart: Total purchase by month.
+   => At $5,696,578, Aug had the highest Total_Purchase and was 5,144.17% higher than Jul, which had the lowest Total_Purchase at $108,627. Aug accounted for 25.69% of Total_Purchase.
 
-2. 100% Stacked bar chart: Total purchase amount and cost type. 
+2. 100% Stacked bar chart: Total purchase amount and cost type.
+   => See what percentage of each vendor's cost is 
 
-3. Treemap: Compare total purchase amount from vendors. => 
+3. Treemap: Compare total purchase amount from vendors.
+   => See the total amount of money the company spends on suppliers. The top 5 suppliers by total purchases are Superior Bicycles, Professional Athletic Consultant, Chicago City Saddles, Vision Cycles, Inc., Jackson Authority.
 
 
 ## **IV. Recommendations**
 
-- Improve %Ontime: discuss with suppliers about delivery time to agree on the time, because most suppliers deliver late. See the Average Days Late by Subcategory chart to recalculate the leadtim of each product.
+- Improve %Ontime: discuss with vendors about delivery time to agree on the time, because most suppliers deliver late. Find out why vendors deliver late, it could be because the lead time is not quite right.
 
-- The company's busiest time is from August to December. August is the busiest. ⇒ the purchasing department should plan to order a lot during this time to meet the demand.
+- The company's peak purchasing time is from August to December. August is the most. ⇒ The purchasing department should plan to order a lot during this time to meet the demand.
 
