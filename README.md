@@ -42,25 +42,16 @@ From the company's data dictionary I did data modeling.
 
 ![Stage 5](https://github.com/user-attachments/assets/2bb50d6d-b39d-42b7-be45-2c1c37045f90)
 
-## **III. Visualization**
-### **1. Vendor overview**
+## **III. Visualization & Insights**
+### **1. Vendor Performance**
 
-![Vendor detail](https://github.com/user-attachments/assets/3235fafb-230a-48d1-a767-41732ea2b082)
 
-### **2. Vendor detail**
 
-![Vendor overview](https://github.com/user-attachments/assets/1a01a8a7-14c1-4279-92a3-bbeb4b215923)
+### **2. Spend Vendor**
 
-## **IV. Insights**
 
-- August accounted for 24.92% of Total_StockedQty.
-- Total TotalCost_Product was higher for Salable ($5,246,055) than Not Salable (3,301,786.69).
-- Average TotalCost_Product was higher for Salable (582,894.97) than Not Salable (330,178.67).
-- At $1,610,965, Superior Bicycles had the highest Total_Purchase and was 90.33% higher than Jackson Authority, which had the lowest Total_Purchase at $846,400.
-- Superior Bicycles accounted for 28.86% of Total_Purchase.
-- Across all 5 Vendors, Total_Purchase ranged from $846,400 to $1,610,965.
 
-## **V. Recommendations**
+## **IV. Recommendations**
 
 - Improve %Ontime: discuss with suppliers about delivery time to agree on the time, because most suppliers deliver late. See the Average Days Late by Subcategory chart to recalculate the leadtim of each product.
 
