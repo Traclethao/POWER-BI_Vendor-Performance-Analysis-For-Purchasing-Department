@@ -45,13 +45,13 @@ From the company's data dictionary I did data modeling.
 ## **III. Visualization & Insights**
 ### **1. Vendor Performance**
 
-![Vendor Performance](https://github.com/user-attachments/assets/1bddf073-7847-4a2e-a7e2-a97f6dce7aaa)
+![Vendor Performance](https://github.com/user-attachments/assets/8101e0f4-9d45-411e-a51a-b56936d993f5)
 
 
 
 ### **2. Spend Vendor**
 
-![Spend Vendor](https://github.com/user-attachments/assets/dca32a9a-adbc-40fd-a17e-3ee83a4477f4)
+![Spend Vendor](https://github.com/user-attachments/assets/0154923c-8ab6-4dbc-84cd-49a09b232f97)
 
 
 ## **IV. Recommendations**
