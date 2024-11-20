@@ -24,23 +24,23 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 1 - Empathize**
 
-
+![Stage 1](https://github.com/user-attachments/assets/c3959d1e-ad52-4d35-80f8-64d5b802e8e9)
 
 ### **Step 2 - Define**
 
-
+![Stage 2](https://github.com/user-attachments/assets/102d1c38-61d1-4a7e-8811-415a03df261e)
 
 ### **Step 3 - Ideate**
 
-
+![Stage 3](https://github.com/user-attachments/assets/9f47e878-26be-4d0a-82c2-53765163fa65)
 
 ### **Step 4 - Prototype**
 
-
+![Stage 4](https://github.com/user-attachments/assets/47106cf4-ee6c-4046-8bf6-5401b40b72d1)
 
 ### **Step 5 - Review**
 
-
+![Stage 5](https://github.com/user-attachments/assets/8904bf3b-4a22-43e0-9ae8-2affdbaf0c0c)
 
 ## **III. Visualization & Insights**
 ### **1. Vendor Performance**
