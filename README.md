@@ -45,7 +45,7 @@ From the company's data dictionary I did data modeling.
 ## **III. Visualization & Insights**
 ### **1. Vendor Performance**
 
-![Vendor Performance](https://github.com/user-attachments/assets/8101e0f4-9d45-411e-a51a-b56936d993f5)
+![Spend Vendor](https://github.com/user-attachments/assets/29cb6473-e9aa-489d-bbbb-8bac636e8e37)
 
 Overall, the Vendor Performance Dashboard plays a crucial role in ensuring the efficiency of the supply chain.
 
