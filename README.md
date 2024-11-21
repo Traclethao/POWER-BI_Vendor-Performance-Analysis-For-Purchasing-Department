@@ -60,7 +60,7 @@ Overall, the Vendor Performance Dashboard plays a crucial role in ensuring the e
 
 ### **2. Spend Vendor**
 
-![Spend Vendor](https://github.com/user-attachments/assets/c5e74717-2332-45ca-8d1d-0afec4691a4c)
+![Spend Vendor](https://github.com/user-attachments/assets/29cb6473-e9aa-489d-bbbb-8bac636e8e37)
 
 The Spend Vendor Dashboard provides insights into spending patterns and identifies areas for cost optimization. By analyzing spending by vendors, managers can identify opportunities to consolidate purchasing, and reduce unnecessary expenses. This helps them to maximize their budget and improve their overall financial performance. 
 
